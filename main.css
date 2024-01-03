@@ -1,0 +1,40 @@
+.body{
+    background-color: #e3f2fd;
+}
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.slid{
+    background-color: rgb(255, 255, 255);
+    
+    height: 500px;
+    width: 250px;
+    
+    display: block;
+    font-size: 20px;
+    padding-left: 10px;
+    
+    
+       
+}
+.slid ul{
+    box-sizing: border-box;
+}
+.slid ul strong{
+    padding-left: 20px;
+    font-size: 20px;
+    
+}
+
+.slid ul li:hover{
+    background-color: #4070f4;
+    font-size: 40px;
+    
+    
+    
+}
